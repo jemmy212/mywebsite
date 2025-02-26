@@ -54,7 +54,7 @@ body {
 .banner{
     width:1200px;
     margin:0 auto;
-    background:url(../img/banner.jpg) no-repeat center center;
+    background:url(../mywebsite/banner.jpg) no-repeat center center;
     height: 312px;
     text-align: center;
     line-height: 312px;
